@@ -1,0 +1,53 @@
+id,area,priority,weight_kg
+1,Giza,1,0.7
+2,Zamalek,2,2.5
+3,Giza,1,6.6
+4,Heliopolis,1,5.8
+5,Nasr City,1,1.3
+6,Maadi,5,5.9
+7,Heliopolis,2,6.9
+8,Giza,5,4.3
+9,Dokki,5,3.0
+10,Downtown,1,7.3
+11,Maadi,4,3.6
+12,Maadi,2,9.1
+13,Zamalek,1,1.3
+14,Nasr City,3,8.1
+15,Heliopolis,3,7.8
+16,Giza,4,5.3
+17,Dokki,1,5.5
+18,Downtown,5,8.5
+19,Zamalek,5,2.2
+20,Nasr City,1,6.5
+21,Downtown,3,9.4
+22,Downtown,2,8.3
+23,Dokki,3,4.6
+24,Downtown,3,2.0
+25,Zamalek,2,6.5
+26,Giza,1,6.0
+27,Maadi,5,7.1
+28,Maadi,4,3.9
+29,Giza,5,2.5
+30,Zamalek,1,2.6
+31,Nasr City,3,4.1
+32,Nasr City,2,8.7
+33,Heliopolis,3,2.4
+34,Dokki,4,8.5
+35,Giza,4,1.8
+36,Maadi,2,7.2
+37,Heliopolis,3,7.2
+38,Dokki,5,4.1
+39,Maadi,2,5.1
+40,Nasr City,1,8.2
+41,Maadi,2,7.6
+42,Dokki,5,1.1
+43,Dokki,5,9.5
+44,Heliopolis,3,9.2
+45,Downtown,1,6.6
+46,Nasr City,5,7.3
+47,Downtown,3,1.5
+48,Dokki,2,4.6
+49,Giza,3,9.2
+50,Downtown,2,5.1
+51,Maadi,1,12.0
+52,Zamalek,3,15.5
