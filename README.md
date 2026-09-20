@@ -5,6 +5,18 @@ A simple Python program that takes a list of package deliveries and organizes th
 - Urgent deliveries (lower priority number) are handled first.
 - Deliveries going to the same area are grouped into the same trip where reasonably possible.
 
+## Folder Structure
+
+- `main.py` — the entry point; runs the whole program from start to finish.
+- `loader.py` — reads `sample.csv` and prepares the delivery data.
+- `Trip.py` — defines what a "trip" is and what it can do (check space, add a package).
+- `trips_planner.py` — the core logic that sorts deliveries and assigns them to trips.
+- `exporter.py` — writes the final results out to CSV files.
+- `sample.csv` — the input file you provide, listing all deliveries.
+- `packages.csv` — *(generated)* every package and which trip it was assigned to.
+- `trips.csv` — *(generated)* a summary of each trip (area, total weight, package count).
+- `.gitignore` — tells git to ignore auto-generated files like `__pycache__`.
+
 ## How to Run
 
 1. Make sure Python 3 is installed on your computer.
